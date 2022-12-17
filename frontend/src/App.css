@@ -1,0 +1,29 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    background-color: #e3dcdc;
+    width: 100%;
+    text-align: center;
+}
+
+.form-floating{
+    position: relative;
+}
+
+.icon{
+    position: absolute;
+    top: calc(50%);
+    left: 1.25rem;
+}
+.form-floating label, .form-floating .form-control {
+    left: .5rem;
+    padding-left: 3.5rem;
+
+}
+
+.icon-textarea{
+    position: absolute;
+    top: 1.8rem;
+    left: 1.25rem;
+    
+}
